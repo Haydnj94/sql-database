@@ -1,0 +1,11 @@
+neighbourhood,avg_airbnb_price,avg_daily_private_rent,price_difference_percent,comparison
+midtown,283,193,47,Higher
+harlem,119,87,37,Higher
+"bedford stuyvesant",108,81,33,Higher
+"hells kitchen",205,127,61,Higher
+"upper west side",211,125,69,Higher
+williamsburg,144,112,29,Higher
+"crown heights",112,77,45,Higher
+"east village",186,108,72,Higher
+bushwick,85,85,0,"Lower or Equal"
+"upper east side",189,112,69,Higher
