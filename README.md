@@ -5,6 +5,7 @@
 This project explores New York’s 2019 Airbnb listings, analyzing rental prices, neighborhood trends, and other key insights. We use a combination of SQL, Python (Pandas), and Web Scraping to process and enrich the dataset, adjusting for inflation and providing a comprehensive view of Airbnb rentals across different neighborhoods.
 
 ## Dataset
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 The core dataset consists of New York Airbnb listings from 2019, supplemented with additional data from web scraping to reflect the current economy. The dataset includes:
 	•	Neighborhood details (boroughs and specific areas)
