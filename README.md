@@ -37,3 +37,5 @@ The core dataset consists of New York Airbnb listings from 2019, supplemented wi
 	•	Used Pandas to clean and transform the dataset.
 	•	Implemented custom functions to calculate median prices and adjust for inflation.
 	•	Saved final results to a CSV file for further analysis.
+## Presentation
+https://www.canva.com/design/DAGdm2RkzNQ/CeGdakXR10y6jMPi6Bs16A/edit
